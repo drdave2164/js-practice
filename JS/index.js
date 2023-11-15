@@ -512,3 +512,5 @@ const d = a + b
 console.log(d - c);
 console.log(c - d);
 console.log(d - c < Number.EPSILON && c - d < Number.EPSILON);
+
+console.log(a)
